@@ -1,0 +1,6 @@
+
+train: ./Fototrain
+val: ./Fototrain
+
+nc: 2  # Number of classes
+names: ['fruit', 'bomb']

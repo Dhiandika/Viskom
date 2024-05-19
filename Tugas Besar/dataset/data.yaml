@@ -1,0 +1,14 @@
+path: C:\Reinforcement_learning\FruitNinja\dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['bomb', 'fruit']
+
+roboflow:
+  workspace: lalit-p1r7j
+  project: fruit-ninja-li0e0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lalit-p1r7j/fruit-ninja-li0e0/dataset/1
