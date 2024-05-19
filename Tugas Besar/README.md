@@ -21,11 +21,11 @@ Program ini bekerja dengan mengambil tangkapan layar permainan, dan mengambil sa
 Kita akan menggunakan gabungan dua dataset buah-buahan dan bom dari roboflow, kreditnya ada di file .txt di folder dataset.
 
 Kami menggunakan file 'train.ipynb' untuk melatih model, dan model 'best.pt' disimpan di folder 'runs/detect/train*/weight'.
- - Model saat ini adalah file 'runs/detect/train232/weights/best3.pt'.
+ - Model saat ini adalah file 'runs/detect/=='.
 
-Gambar berikut ini menunjukkan sekumpulan prediksi dari model 'best3.pt':
+Gambar berikut ini menunjukkan sekumpulan prediksi dari model '==':
 
-![image](runs/detect/train232/val_batch2_pred.jpg)
+<!-- ![image](runs/detect/train232/val_batch2_pred.jpg) -->
 
 Kita dapat melihat bahwa parameter conf harus diatur pada nilai yang tinggi untuk menghindari prediksi yang tidak perlu pada buah yang dipotong.
 
