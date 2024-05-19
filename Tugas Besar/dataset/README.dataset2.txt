@@ -1,4 +1,4 @@
-# NinjaFruitBot > 2023-04-02 8:46pm
+# NinjaFruitBot
 https://universe.roboflow.com/ganga-david-a6yv4/ninjafruitbot
 
 Provided by a Roboflow user

@@ -14,6 +14,7 @@ Program ini bekerja dengan mengambil tangkapan layar permainan, dan mengambil sa
 - Numpy
 - Mss
 - Keyboard
+- ultralytics
 ------------------------
 
 ## Melatih model
@@ -32,5 +33,3 @@ Kita dapat melihat bahwa parameter conf harus diatur pada nilai yang tinggi untu
 ![image](git_images/gameplay_short_best3.gif)
 
 ------------------------
-
-Translated with DeepL.com (free version)

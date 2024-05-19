@@ -1,8 +1,7 @@
 
-fruit ninja - v1 2024-01-17 4:37pm
+fruit ninja - 
 ==============================
 
-This dataset was exported via roboflow.com on April 15, 2024 at 2:30 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects

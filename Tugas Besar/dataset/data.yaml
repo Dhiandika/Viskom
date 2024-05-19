@@ -1,4 +1,4 @@
-path: C:\Reinforcement_learning\FruitNinja\dataset
+path: C:\Users\kuzup\OneDrive\Dokumen\GitHub\Viskom\Tugas Besar\dataset
 train: train/images
 val: valid/images
 test: test/images
